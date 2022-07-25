@@ -3,6 +3,8 @@
 __My name is Edy Rojas González (っ◔◡◔)っ__</br>
 *I'm a student at the Centro Universitario de Occidente of the Universidad San Carlos de Guatemala.*
 
+## A little about me
+
 - I really like MMORPG, especially Black Desert Online. 🎮
 - Junior java developer 💻
 - Currently supporting a project as dev frontend, soon you will know which one 🙊
