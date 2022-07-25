@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+__My name is Edy Rojas González (っ◔◡◔)っ__</br>
+*I'm a student at the Centro Universitario de Occidente of the Universidad San Carlos de Guatemala.*
+
+- I really like MMORPG, especially Black Desert Online. 🎮
+- Junior java developer 💻
+- Currently supporting a project as dev frontend, soon you will know which one 🙊
 
 <!--
 **edyrrg/edyrrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
