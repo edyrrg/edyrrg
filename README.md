@@ -9,6 +9,8 @@ __My name is Edy Rojas González (っ◔◡◔)っ__</br>
 - Junior java developer 💻
 - Currently supporting a project as dev frontend, soon you will know which one 🙊
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edyrrg)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **edyrrg/edyrrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
