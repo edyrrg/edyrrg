@@ -15,6 +15,16 @@ __My name is Edy Rojas González (っ◔◡◔)っ__</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edyrrg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Social Networks
+
+<a href="https://www.facebook.com/edy.rojasgonzalez.94/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://twitter.com/edyrrg64/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/ryuk.owo/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.twitch.tv/edyrrg/"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+<a href="https://www.codewars.com/users/edyrrg/"><img  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
+<a href="https://github.com/edyrrg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/edy-rojas-gonzalez-045856127/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <!--
 **edyrrg/edyrrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
