@@ -13,7 +13,7 @@ __My name is Edy Rojas González (っ◔◡◔)っ__</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edyrrg&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edyrrg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edyrrg)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Social Networks
 
