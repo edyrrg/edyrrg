@@ -19,10 +19,6 @@ __My name is Edy Rojas González (っ◔◡◔)っ__</br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyrrg&layout=compact" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edyrrg&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edyrrg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Social Networks
 
 <a href="https://www.facebook.com/edy.rojasgonzalez.94/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
