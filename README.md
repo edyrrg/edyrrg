@@ -30,6 +30,7 @@ __My name is Edy Rojas González (っ◔◡◔)っ__
 <a href="https://www.codewars.com/users/edyrrg/"><img  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
 <a href="https://github.com/edyrrg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/edy-rojas-gonzalez-045856127/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:edyrojas64@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!--
 **edyrrg/edyrrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
