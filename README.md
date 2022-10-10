@@ -2,6 +2,7 @@
 
 __My name is Edy Rojas González (っ◔◡◔)っ__</br>
 *I'm a student at the Centro Universitario de Occidente of the Universidad San Carlos de Guatemala.*
+
 *Jr. Software Developer*
 
 ## A little about me
