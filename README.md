@@ -1,9 +1,10 @@
 # Hi there 👋
 
-__My name is Edy Rojas González (っ◔◡◔)っ__</br>
-*I'm a student at the Centro Universitario de Occidente of the Universidad San Carlos de Guatemala.*
+__My name is Edy Rojas González (っ◔◡◔)っ__
 
 *Jr. Software Developer*
+
+*I'm a student at the Centro Universitario de Occidente of the Universidad San Carlos de Guatemala.*
 
 ## A little about me
 
