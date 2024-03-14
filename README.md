@@ -2,15 +2,16 @@
 
 __My name is Edy Rojas González (っ◔◡◔)っ__
 
-*Jr. Software Developer*
+*Jr. Software Developer and Implementation Specialist in Conversion*
 
-*I'm a student at the Centro Universitario de Occidente of the Universidad San Carlos de Guatemala.*
+*I'm a student at the Universidad San Carlos de Guatemala.*
 
 ## A little about me
 
-- I really like MMORPG, especially Black Desert Online. 🎮
-- Junior java developer 💻
-- Currently supporting a project as dev frontend, soon you will know which one 🙊
+- I really like MMORPG, especially Black Desert Online 🎮
+- I love science fiction and listening to political podcasts.
+- I’m currently learnin Python 🐍
+- I am a music lover and I like to explore new genres of music.
 
 ## My stats
 
