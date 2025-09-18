@@ -1,8 +1,8 @@
 # Hi there 👋
 
-__My name is Edy Rojas González (っ◔◡◔)っ__
+__My name is Edy Rojas González (っ◔◡◔)っ__  
 
-*Jr. Software Developer and Implementation Specialist in Conversion*
+*Jr. Software Developer and Implementation Specialist in Conversion*  
 
 *I'm a student at the Universidad San Carlos de Guatemala.*
 
@@ -14,6 +14,7 @@ __My name is Edy Rojas González (っ◔◡◔)っ__
 - I am a music lover and I like to explore new genres of music.
 
 ## My stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=edyrrg&show_icons=true&theme=dracula" />
 </a>
