@@ -29,9 +29,9 @@ __My name is Edy Rojas González (っ◔◡◔)っ__
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/edyrrg/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edyrrg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edy-rojas-gonzalez/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edyrojas64@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@ryukcode.xyz)
 [![Telegram](https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/edyrrg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://ryuk-port.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://ryukcode.xyz/)
 
 <!--
 **edyrrg/edyrrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
